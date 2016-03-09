@@ -1,0 +1,57 @@
+body
+{
+	margin: 0px;
+	background-color: #22272A; 
+}
+
+.titre_div
+{
+	border: 5px;
+	height: 100px;
+	padding: 50px;
+	margin-left: 15%;
+	margin-right: 15%;
+	border-radius: 8px;
+	border-color: #1155BB;
+	text-align: left;
+}
+
+.content
+{
+	border: 5px;
+	height: 900px;
+	padding: 50px;
+	margin-left: 15%;
+	margin-right: 15%;
+	margin-top: 100px;
+	border-radius: 8px;
+	border-color: #1155BB;
+	text-align: left;
+}
+
+
+.wtitre
+{
+	font-size: 62px;
+	color: #E85151;
+}
+
+.wtitre_sub
+{
+	font-size: 30px;
+	color: #E85151;
+}
+
+.listing
+{
+	font-size: 20px;
+	color: #E85151;
+}
+
+.sep
+{
+	color: #E85151;
+	height: 3px;
+	background-color: #E85151;
+	border : none;
+}
