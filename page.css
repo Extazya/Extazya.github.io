@@ -1,9 +1,3 @@
-body
-{
-	margin: 0px;
-	background-color: #22272A; 
-}
-
 .titre_div
 {
 	border: 5px;
@@ -12,7 +6,7 @@ body
 	margin-left: 15%;
 	margin-right: 15%;
 	border-radius: 8px;
-	border-color: #1155BB;
+	border-color: #EEE;
 	text-align: left;
 }
 
@@ -33,19 +27,19 @@ body
 .wtitre
 {
 	font-size: 62px;
-	color: #E85151;
+	color: #111111;
 }
 
 .wtitre_sub
 {
 	font-size: 30px;
-	color: #EE5151;
+	color: #111111;
 }
 
 .listing
 {
 	font-size: 20px;
-	color: #FFFFFF;
+	color: #111111;
 }
 
 .sep
