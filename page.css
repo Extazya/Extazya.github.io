@@ -30,7 +30,7 @@ body
 	font-size: 62px;
 	margin-bottom: 12px;
 	color: #111111;
-	font-family: cursive;
+	font-family: fantasy;
 }
 
 .wtitre_sub
@@ -39,14 +39,14 @@ body
 	margin-bottom: 8px;
 	margin-top: 8px; 
 	color: #111111;
-	font-family: cursive;
+	font-family: fantasy;
 }
 
 .listing
 {
 	font-size: 20px;
 	color: #111111;
-	font-family: cursive;
+	font-family: fantasy;
 }
 
 .sep
