@@ -29,8 +29,9 @@ body
 {
 	font-size: 62px;
 	margin-bottom: 12px;
+	margin-top: 0px;
 	color: #111111;
-	font-family: fantasy;
+	font-family: cursive;
 }
 
 .wtitre_sub
@@ -39,14 +40,14 @@ body
 	margin-bottom: 8px;
 	margin-top: 8px; 
 	color: #111111;
-	font-family: fantasy;
+	font-family: cursive;
 }
 
 .listing
 {
 	font-size: 20px;
 	color: #111111;
-	font-family: fantasy;
+	font-family: cursive;
 }
 
 .sep
